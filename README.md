@@ -13,7 +13,7 @@ Currently working on benchmarking server performance of similar(as much allowed 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maneeshpm&show_icons=true&locale=en&layout=compact" alt="maneeshpm" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maneeshpm&show_icons=true&locale=en" alt="maneeshpm" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maneeshpm&show_icons=true&locale=en&layout=compact" alt="maneeshpm" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
